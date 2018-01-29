@@ -1,0 +1,3 @@
+python 2.7
+django 1.8
+win7 pretest env
